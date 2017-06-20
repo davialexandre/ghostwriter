@@ -313,6 +313,10 @@ table {
     a:hover { color: $primary; }
 }
 
+.author {
+    font-weight: bold;
+}
+
 .post-content {
     a:hover {
         border-bottom: 1px dotted $primary;

@@ -124,6 +124,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-date, .blog-description { color: #aeadad; font-size: 14px; font-weight: 600; line-height: 1; margin: 25px 0 0; }
 .post-date a, .blog-description a { color: #aeadad; }
 .post-date a:hover, .blog-description a:hover { color: #f06c37; }
+.author { font-weight: bold; }
 .post-content a:hover { border-bottom: 1px dotted #f06c37; padding: 0 0 2px; }
 .post-content:last-child { margin-bottom: 0; }
 .post-content .footnote { border-spacing: 0; margin-bottom: 0; }
