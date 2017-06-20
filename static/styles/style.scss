@@ -91,11 +91,9 @@ img {
 
 pre {
     background: #F1F0EA;
-    border: 1px solid #DDDBCC;
     border-radius: 3px;
     margin: 0 0 20px;
     overflow-x: auto;
-    padding: 10px;
     font-size: 16px;
 
     code {
@@ -104,7 +102,7 @@ pre {
 }
 
 code {
-    padding: 2px 4px;
+    padding: 10px;
     font-size: 90%;
     color: $primary;
     background-color: #F1F0EA;
