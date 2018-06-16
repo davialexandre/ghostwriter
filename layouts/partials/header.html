@@ -75,6 +75,11 @@
                                 <i class="fab fa-envelope"></i>
                             </a>
                         {{ end }}
+                        {{ with .Site.Params.goodreads }}
+                            <a class="button-square button-social hint--top" data-hint="Goodreads" title="Goodreads" href="{{ . }}">
+                                <i class="fab fa-goodreads-g"></i>
+                            </a>
+                        {{ end }}
                     </div>
 
                     <ul class="site-nav">
